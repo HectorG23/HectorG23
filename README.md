@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ##About me:
 
 - 🌱 Actualmente aprendiendo php.
-- 📫 puedes contactarme en: **hdgc2006@gmail.com**.
+- 📫 Puedes contactarme en: **hdgc2006@gmail.com**.
 
 ## Contact me:
 - [![LinkedIn](https://img.shields.io/badge/linkedin-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/h%C3%A9ctor-deibyd-godoy-c%C3%A1rdenas-563b89294/)
