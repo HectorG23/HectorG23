@@ -26,6 +26,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
     <a><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
     <a><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a><img alt="Python" src="https://img.shields.io/badge/Python%20-%23025E8C.svg?logo=Python&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
