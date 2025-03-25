@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## About me:
 
-- 🌱 Actualmente aprendiendo php.
+- 🌱 Actualmente aprendiendo Python.
 - 📫 Puedes contactarme en: **hdgc2006@gmail.com**.
 
 ## Contact me:
